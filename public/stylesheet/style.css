@@ -43,3 +43,7 @@ a {
     margin: 0.7rem 0;
     box-shadow: var(--box-shadow-1);
   }
+
+  .patientinput {
+    align-items: center;
+  }
